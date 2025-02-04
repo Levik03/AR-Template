@@ -16,4 +16,14 @@ MonoBehaviour:
   m_GuidHigh: 0
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5410860453631487306
+      m_GuidHigh: 11086301065992983467
+    m_SerializedTextureGuid:
+      m_GuidLow: 9528603318758689635
+      m_GuidHigh: 16549562960142714458
+    m_Size: {x: 0.06, y: 0.07995594}
+    m_SpecifySize: 1
+    m_Name: puddle
+    m_Texture: {fileID: 2800000, guid: d4384b63663b843c5ac64433d4dbabe5, type: 3}

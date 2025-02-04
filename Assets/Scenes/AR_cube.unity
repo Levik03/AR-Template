@@ -496,6 +496,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1568608145}
   - component: {fileID: 1568608144}
+  - component: {fileID: 1568608147}
+  - component: {fileID: 1568608146}
   m_Layer: 0
   m_Name: XR Origin
   m_TagString: Untagged
@@ -536,6 +538,37 @@ Transform:
   - {fileID: 1415471195}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1568608146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1568608143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 958de41c0627643e88914130fff8eda9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_TrackedImageManager: {fileID: 1568608147}
+  shipPrefab: {fileID: 5026755118653477356, guid: 17a8e60fa1904ec41a2946cc0989c156,
+    type: 3}
+--- !u!114 &1568608147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1568608143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dea56a9eaadd1c439095de4f9a371cb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SerializedLibrary: {fileID: 11400000, guid: 069d72436172d49d1b0549258070fce6,
+    type: 2}
+  m_MaxNumberOfMovingImages: 0
+  m_TrackedImagePrefab: {fileID: 0}
 --- !u!1 &1952817473
 GameObject:
   m_ObjectHideFlags: 0

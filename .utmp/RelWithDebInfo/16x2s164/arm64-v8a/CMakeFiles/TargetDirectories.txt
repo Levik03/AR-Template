@@ -1,0 +1,5 @@
+/Users/l2-shekellskin/Documents/GitHub/AR-Template/.utmp/RelWithDebInfo/16x2s164/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/l2-shekellskin/Documents/GitHub/AR-Template/.utmp/RelWithDebInfo/16x2s164/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/l2-shekellskin/Documents/GitHub/AR-Template/.utmp/RelWithDebInfo/16x2s164/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/l2-shekellskin/Documents/GitHub/AR-Template/.utmp/RelWithDebInfo/16x2s164/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/l2-shekellskin/Documents/GitHub/AR-Template/.utmp/RelWithDebInfo/16x2s164/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
